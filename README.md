@@ -1,8 +1,8 @@
 # Face-Detection
 #requirements
 
--pip install cv2
--pip install numpy
+- pip install cv2
+- pip install numpy
 
 #what does the script do 
 
